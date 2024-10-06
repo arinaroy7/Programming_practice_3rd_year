@@ -32,6 +32,8 @@ partial class Program
     Image<Rgba32> img = new Image<Rgba32>(WD, HG);
     nint imgid = 0;
 
+    
+    // переменные для параметров звезды
     int inner = 20;
     int outer = 50;
     int prongs = 5;
