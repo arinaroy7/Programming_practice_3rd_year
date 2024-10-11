@@ -1,6 +1,6 @@
 // See https://raa.is/ImStudio/
 
-sing ImGuiNET;
+using ImGuiNET;
 using ClickableTransparentOverlay;
 using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.PixelFormats;

@@ -55,7 +55,7 @@ partial class Program
 
         Draw();
 
-        RemoveImage("img"); // 
+        RemoveImage("img"); 
         AddOrGetImagePointer("img", img, false, out imgid); // "имя", объект с нашим изображ
         // чтобы для картинки получ идентификатор, нужно создать функцию. out imgid - переменная, в которую кладем идентификатор
         ImGui.Image(imgid, new (WD,HG)); // вызов функции Image, которая добавляет кратинку в наш интерфейс
