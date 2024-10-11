@@ -24,6 +24,16 @@ partial class Program
     Brush fone = Brushes.Solid(Color.White);
     img.Mutate(x => x.Fill(fone));
     img.Mutate(x => x.Fill(Brushes.Solid(Color.Green), new EllipsePolygon(ballX, ballY, ballRadius)));
+
+    /*img.Mutate(x => x
+            .Fill(fillBrush, SixLabors.ImageSharp.Drawing.Primitives.Circle.Create(currentX, currentY, 30)) 
+            .Draw(outlinePen, SixLabors.ImageSharp.Drawing.Primitives.Circle.Create(currentX, currentY, 30)) 
+            );
+            -------------
+    img.Mutate(x => x
+      .Fill(fillBrush, SixLabors.ImageSharp.Drawing.Primitives.Ellipse.Create(currentX, currentY, radius, radius)) 
+      .Draw(outlinePen, SixLabors.ImageSharp.Drawing.Primitives.Ellipse.Create(currentX, currentY, radius, radius)) 
+    );*/
   }
   void MovementBall()
   {
