@@ -1,5 +1,4 @@
-﻿// See https://raa.is/ImStudio/
-
+﻿// 4.10.2024 1 Практика 
 /*using ImGuiNET;
 
 partial class Program
