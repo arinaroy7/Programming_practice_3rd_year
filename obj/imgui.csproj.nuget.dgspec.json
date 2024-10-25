@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\imgui.csproj": {}
+  },
+  "projects": {
+    "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\imgui.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\imgui.csproj",
+        "projectName": "imgui",
+        "projectPath": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\imgui.csproj",
+        "packagesPath": "C:\\Users\\arina\\.nuget\\packages\\",
+        "outputPath": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arina\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ClickableTransparentOverlay": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "ImGui.NET": {
+              "target": "Package",
+              "version": "[1.90.9.1, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "SixLabors.ImageSharp.Drawing": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
