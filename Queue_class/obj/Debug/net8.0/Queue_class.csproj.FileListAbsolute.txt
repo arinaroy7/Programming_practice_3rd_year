@@ -1,0 +1,15 @@
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Queue_class\obj\Debug\net8.0\Queue_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Queue_class\obj\Debug\net8.0\Queue_class.AssemblyInfoInputs.cache
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Queue_class\obj\Debug\net8.0\Queue_class.AssemblyInfo.cs
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Queue_class\obj\Debug\net8.0\Queue_class.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Queue_class\obj\Debug\net8.0\Queue_class.sourcelink.json
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Queue_class\bin\Debug\net8.0\Queue_class.exe
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Queue_class\bin\Debug\net8.0\Queue_class.deps.json
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Queue_class\bin\Debug\net8.0\Queue_class.runtimeconfig.json
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Queue_class\bin\Debug\net8.0\Queue_class.dll
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Queue_class\bin\Debug\net8.0\Queue_class.pdb
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Queue_class\obj\Debug\net8.0\Queue_class.dll
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Queue_class\obj\Debug\net8.0\refint\Queue_class.dll
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Queue_class\obj\Debug\net8.0\Queue_class.pdb
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Queue_class\obj\Debug\net8.0\Queue_class.genruntimeconfig.cache
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Queue_class\obj\Debug\net8.0\ref\Queue_class.dll

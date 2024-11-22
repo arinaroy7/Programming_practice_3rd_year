@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\imgui.csproj": {}
+    "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\Queue_class\\Queue_class.csproj": {}
   },
   "projects": {
-    "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\imgui.csproj": {
+    "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\Queue_class\\Queue_class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\imgui.csproj",
-        "projectName": "imgui",
-        "projectPath": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\imgui.csproj",
+        "projectUniqueName": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\Queue_class\\Queue_class.csproj",
+        "projectName": "Queue_class",
+        "projectPath": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\Queue_class\\Queue_class.csproj",
         "packagesPath": "C:\\Users\\arina\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\obj\\",
+        "outputPath": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\Queue_class\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arina\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,24 +42,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "ClickableTransparentOverlay": {
-              "target": "Package",
-              "version": "[11.0.1, )"
-            },
-            "ImGui.NET": {
-              "target": "Package",
-              "version": "[1.90.9.1, )"
-            },
-            "SixLabors.ImageSharp": {
-              "target": "Package",
-              "version": "[3.1.5, )"
-            },
-            "SixLabors.ImageSharp.Drawing": {
-              "target": "Package",
-              "version": "[2.1.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

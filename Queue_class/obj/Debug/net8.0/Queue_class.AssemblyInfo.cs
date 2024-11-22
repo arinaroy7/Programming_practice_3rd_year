@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("imgui")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Queue_class")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79d88c5420504d04c4aa1974b95a913c7f92a5a7")]
-[assembly: System.Reflection.AssemblyProductAttribute("imgui")]
-[assembly: System.Reflection.AssemblyTitleAttribute("imgui")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35a0f419780431a5a0264c553cd5e7c32025d8e4")]
+[assembly: System.Reflection.AssemblyProductAttribute("Queue_class")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Queue_class")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
