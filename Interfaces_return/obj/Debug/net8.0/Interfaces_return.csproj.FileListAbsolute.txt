@@ -1,0 +1,15 @@
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Interfaces_return\obj\Debug\net8.0\Interfaces_return.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Interfaces_return\obj\Debug\net8.0\Interfaces_return.AssemblyInfoInputs.cache
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Interfaces_return\obj\Debug\net8.0\Interfaces_return.AssemblyInfo.cs
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Interfaces_return\obj\Debug\net8.0\Interfaces_return.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Interfaces_return\obj\Debug\net8.0\Interfaces_return.sourcelink.json
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Interfaces_return\bin\Debug\net8.0\Interfaces_return.exe
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Interfaces_return\bin\Debug\net8.0\Interfaces_return.deps.json
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Interfaces_return\bin\Debug\net8.0\Interfaces_return.runtimeconfig.json
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Interfaces_return\bin\Debug\net8.0\Interfaces_return.dll
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Interfaces_return\bin\Debug\net8.0\Interfaces_return.pdb
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Interfaces_return\obj\Debug\net8.0\Interfaces_return.dll
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Interfaces_return\obj\Debug\net8.0\refint\Interfaces_return.dll
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Interfaces_return\obj\Debug\net8.0\Interfaces_return.pdb
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Interfaces_return\obj\Debug\net8.0\Interfaces_return.genruntimeconfig.cache
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\Interfaces_return\obj\Debug\net8.0\ref\Interfaces_return.dll
