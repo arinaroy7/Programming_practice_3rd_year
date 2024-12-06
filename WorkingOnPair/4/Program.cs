@@ -11,3 +11,11 @@ var sortedItems = items.Order(); // Функция сортировка
 
 foreach(var i in sortedItems)
     Console.WriteLine($"{i.Name} {i.Cost}");
+
+// 06.12.24 Работа на паре
+
+Console.WriteLine(s.ToUpper()); //все символы заглавные 
+Console.WriteLine(s.ToLower()); //все символы строчные
+Console.WriteLine(ToWave(s)); //ВсЕ сИмВоЛы ТаК
+Console.WriteLine(s.ToUpperFirstLetter()); //
+Console.WriteLine(s.ToWave().Decorate("xxx")); //
