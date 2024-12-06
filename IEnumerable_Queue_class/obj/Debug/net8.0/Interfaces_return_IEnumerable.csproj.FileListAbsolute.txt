@@ -1,0 +1,15 @@
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\IEnumerable_Queue_class\bin\Debug\net8.0\Interfaces_return_IEnumerable.exe
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\IEnumerable_Queue_class\bin\Debug\net8.0\Interfaces_return_IEnumerable.deps.json
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\IEnumerable_Queue_class\bin\Debug\net8.0\Interfaces_return_IEnumerable.runtimeconfig.json
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\IEnumerable_Queue_class\bin\Debug\net8.0\Interfaces_return_IEnumerable.dll
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\IEnumerable_Queue_class\bin\Debug\net8.0\Interfaces_return_IEnumerable.pdb
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\IEnumerable_Queue_class\obj\Debug\net8.0\Interfaces_return_IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\IEnumerable_Queue_class\obj\Debug\net8.0\Interfaces_return_IEnumerable.AssemblyInfoInputs.cache
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\IEnumerable_Queue_class\obj\Debug\net8.0\Interfaces_return_IEnumerable.AssemblyInfo.cs
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\IEnumerable_Queue_class\obj\Debug\net8.0\Interfaces_return_IEnumerable.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\IEnumerable_Queue_class\obj\Debug\net8.0\Interfaces_return_IEnumerable.sourcelink.json
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\IEnumerable_Queue_class\obj\Debug\net8.0\Interfaces_return_IEnumerable.dll
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\IEnumerable_Queue_class\obj\Debug\net8.0\refint\Interfaces_return_IEnumerable.dll
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\IEnumerable_Queue_class\obj\Debug\net8.0\Interfaces_return_IEnumerable.pdb
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\IEnumerable_Queue_class\obj\Debug\net8.0\Interfaces_return_IEnumerable.genruntimeconfig.cache
+D:\Учеба\3 курс осень\Трусов А С\Programming_practice_3rd_year\IEnumerable_Queue_class\obj\Debug\net8.0\ref\Interfaces_return_IEnumerable.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\Interfaces_return_IEnumerable\\Interfaces_return_IEnumerable.csproj": {}
+    "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\IEnumerable_Queue_class\\Interfaces_return_IEnumerable.csproj": {}
   },
   "projects": {
-    "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\Interfaces_return_IEnumerable\\Interfaces_return_IEnumerable.csproj": {
+    "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\IEnumerable_Queue_class\\Interfaces_return_IEnumerable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\Interfaces_return_IEnumerable\\Interfaces_return_IEnumerable.csproj",
+        "projectUniqueName": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\IEnumerable_Queue_class\\Interfaces_return_IEnumerable.csproj",
         "projectName": "Interfaces_return_IEnumerable",
-        "projectPath": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\Interfaces_return_IEnumerable\\Interfaces_return_IEnumerable.csproj",
+        "projectPath": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\IEnumerable_Queue_class\\Interfaces_return_IEnumerable.csproj",
         "packagesPath": "C:\\Users\\arina\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\Interfaces_return_IEnumerable\\obj\\",
+        "outputPath": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\IEnumerable_Queue_class\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arina\\AppData\\Roaming\\NuGet\\NuGet.Config"
