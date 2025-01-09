@@ -22,5 +22,3 @@ public static class Helpers
             (p1.Y + p2.Y + p3.Y) / 3);
     }
 }
-
-
