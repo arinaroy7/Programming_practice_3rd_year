@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "At51ZZsOPeg=",
+  "success": true,
+  "projectFilePath": "D:\\Учеба\\3 курс осень\\Трусов А С\\Programming_practice_3rd_year\\Rodionov2025\\Algebra\\3\\GraphApp\\GraphApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arina\\.nuget\\packages\\oxyplot.core\\2.2.0\\oxyplot.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\arina\\.nuget\\packages\\oxyplot.windowsforms\\2.2.0\\oxyplot.windowsforms.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
