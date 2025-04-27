@@ -8,7 +8,7 @@ class Program {
         double x = 0;
 
         for (int i=0; i<a; i++) {
-            if (Math.Abs(iterations - x) > 0.01) {
+            if (Math.Abs(iterations - x) > 0.001) {
                 x = 0.5*(iterations + a/iterations);
             }
             else {
